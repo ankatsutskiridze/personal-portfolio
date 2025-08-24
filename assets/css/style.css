@@ -241,7 +241,7 @@ section {
 .home .image {
   width: 40%;
   max-width: 64rem;
-  border-radius: 30%;
+  border-radius: 50%;
   overflow: hidden;
   z-index: 1;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
