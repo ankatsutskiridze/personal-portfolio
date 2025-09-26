@@ -298,11 +298,11 @@ section {
   }
   51%,
   75% {
-    content: "Software Engineer";
+    content: "Full-Stack Developer";
   }
   76%,
   100% {
-    content: "Backend Developer";
+    content: "Front-End Developer";
   }
 }
 @keyframes typing {
